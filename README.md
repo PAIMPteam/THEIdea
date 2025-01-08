@@ -60,8 +60,7 @@ For the Minimum Viable Product (MVP), the aim is to:
 ## 📅 Milestones
 1. **Week 1**: Ideation and basic prototype setup.
 2. **Week 2**: Core chatbot functionality and personality development.
-3. **Week 3**: Initial Solana integration for wallet tracking.
-4. **Week 4**: Testing, debugging, and preparing for public launch.
+3. **Week 3**: Testing, debugging, and preparing for public launch.
 
 ---
 
